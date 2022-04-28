@@ -2,8 +2,11 @@
 Repositorio criado para o Desafio de Projeto Git/github da Dio
 
 #Codigos Importantes a serem usados:
+
 cd= procurar pasta + nome
+
 dir= listar pastas
+
 mkdir=criar pasta
 del/ rmdir=deletar
 git status = ver onde esta
