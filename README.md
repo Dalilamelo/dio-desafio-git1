@@ -7,7 +7,7 @@ cd= procurar pasta + nome
 
 dir= listar pastas
 
-mkdir=criar pasta
+mkdir=criar pasta                           ![Esperança de uma nova forma de educação](https://www.google.com/search?q=slogan+da+Digital+Innovation+One&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQmtOWxLf3AhUzqZUCHeUdBj0Q_AUoAnoECAEQBA&biw=1366&bih=657&dpr=1#imgrc=bBka22ODlv6CvM)
 
 del/ rmdir=deletar
 
