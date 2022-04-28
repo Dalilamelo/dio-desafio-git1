@@ -1,5 +1,5 @@
-#### Dio-desafio-git1
-### Repositorio criado para o Desafio de Projeto Git/github da Dio
+# Dio-desafio-git1
+## Repositorio criado para o Desafio de Projeto Git/github da Dio
 
 ## Codigos Importantes a serem usados:
 
